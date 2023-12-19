@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkKh5FBv4jrLdyWlsbdHYL2yalvhIMVrveBvm71SM2aWYFQAnIW0bVZgSbicldRZ3i+tJyQLmvUlunfZ6v2ujw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alina\\OneDrive\\Рабочий стол\\СПБГТИ(ТУ)\\7 семестр\\СТПО\\SeleniumLab\\SeleniumLab\\SeleniumLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,92 @@
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.exe
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.deps.json
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.runtimeconfig.json
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.AssemblyReference.cache
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.Form1.resources
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.GenerateResource.cache
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfoInputs.cache
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfo.cs
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CoreCompileInputs.cache
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CopyComplete
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\refint\SeleniumLab.dll
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.genruntimeconfig.cache
+C:\Users\Djeka_L\Desktop\говно\SeleniumLab\obj\Debug\net6.0-windows\ref\SeleniumLab.dll
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.exe
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.deps.json
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.runtimeconfig.json
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dsuho\Desktop\SeleniumLab\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.AssemblyReference.cache
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.Form1.resources
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.GenerateResource.cache
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfoInputs.cache
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfo.cs
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CoreCompileInputs.cache
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CopyComplete
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\refint\SeleniumLab.dll
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.genruntimeconfig.cache
+C:\Users\dsuho\Desktop\SeleniumLab\obj\Debug\net6.0-windows\ref\SeleniumLab.dll
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.exe
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.deps.json
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.runtimeconfig.json
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.AssemblyReference.cache
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.Form1.resources
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.GenerateResource.cache
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfoInputs.cache
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfo.cs
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CopyComplete
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\refint\SeleniumLab.dll
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.genruntimeconfig.cache
+C:\Users\Alina\Downloads\SeleniumLab (2)\SeleniumLab\obj\Debug\net6.0-windows\ref\SeleniumLab.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.exe
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.deps.json
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.runtimeconfig.json
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.AssemblyReference.cache
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.Form1.resources
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.GenerateResource.cache
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfoInputs.cache
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.AssemblyInfo.cs
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CoreCompileInputs.cache
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.csproj.CopyComplete
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\refint\SeleniumLab.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.pdb
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.genruntimeconfig.cache
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\ref\SeleniumLab.dll
