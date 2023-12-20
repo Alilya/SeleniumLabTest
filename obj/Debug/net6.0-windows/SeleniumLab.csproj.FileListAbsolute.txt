@@ -90,3 +90,4 @@ C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семес�
 C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.pdb
 C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.genruntimeconfig.cache
 C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\ref\SeleniumLab.dll
+C:\Users\Alina\OneDrive\Рабочий стол\СПБГТИ(ТУ)\7 семестр\СТПО\SeleniumLab\SeleniumLab\obj\Debug\net6.0-windows\SeleniumLab.sourcelink.json

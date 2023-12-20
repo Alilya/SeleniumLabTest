@@ -11,47 +11,75 @@ namespace SeleniumLab {
         }
 
         private void TestBtn_Click(object sender, EventArgs e) {
-            firefox = new FirefoxDriver();
+            FirefoxOptions opt = new FirefoxOptions();
+            if (isSilent.Checked) {
+                opt.AddArgument("--headless");
+            }
+            progressBar1.Value = 10;
+            firefox = new FirefoxDriver(opt);
+            progressBar1.Value = 15;
             firefox.Url = "https://programforyou.ru/calculators/number-systems";
+            progressBar1.Value = 20;
             IWebElement textBox = firefox.FindElement(By.XPath("//*[@id=\"num-from\"]"));
             textBox.Clear();
 
-            textBox.SendKeys(textBoxValue.Text);
-            IWebElement button = firefox.FindElement(By.ClassName("calc-btn"));
-            button.Click();
-            IWebElement result = firefox.FindElement(By.ClassName("calc-result"));
-
-            string resSite = result.Text;
             string res = "";
-            for (int i = 0; i < resSite.Length; i++) {
-                if (resSite[i] == '=') {
-                    for (int j = i + 1; j < resSite.Length - 1; j++) {
-                        res += resSite[j];
+            string myRes = "";
+            if (double.TryParse(textBoxValue.Text, out double doubleText)) {
+                
+                textBox.SendKeys(textBoxValue.Text);
+                IWebElement button = firefox.FindElement(By.ClassName("calc-btn"));
+
+                button.Click();
+                progressBar1.Value = 30;
+                IWebElement result = firefox.FindElement(By.ClassName("calc-result"));
+                myRes = ConvertTo2(textBoxValue.Text);
+                progressBar1.Value = 50;
+                string resSite = result.Text;
+                res = "";
+                for (int i = 0; i < resSite.Length; i++) {
+                    if (resSite[i] == '=') {
+                        for (int j = i + 1; j < resSite.Length - 1; j++) {
+                            res += resSite[j];
+                            
+                        }
                     }
+                    
                 }
+                progressBar1.Value = 70;
             }
-            MessageBox.Show(res);
+            else {
+                myRes = "Ошибка! Введенное значение не может бытьпреобразовано в 2СС!";
+                textBox.SendKeys(textBoxValue.Text);
+                progressBar1.Value = 30;
+                IWebElement button = firefox.FindElement(By.ClassName("calc-btn"));
+                progressBar1.Value = 50;
+                button.Click();
+                IWebElement result = firefox.FindElement(By.ClassName("calc-result"));
+                progressBar1.Value = 70;
+                res = result.Text;
+            }
+           
 
             if (savePath == String.Empty) {
-                MessageBox.Show("Выберите папку сохранения");
+                MessageBox.Show("Папка сохранения не выбрана! Тестирование завершено");
+                progressBar1.Value = 100;
                 return;
             }
 
             try {
                 StreamWriter sw = new StreamWriter(savePath + @"\Test.txt");               
                 sw.WriteLine("Полученное значение: "+res);
-
-                string myRes = ConvertTo2(textBoxValue.Text);
+                
+               
                 sw.WriteLine("Ожидаемое значение: "+ myRes);
                 sw.Close();
             }
             catch (Exception ex) {
-                Console.WriteLine("Exception: " + ex.Message);
+                Console.WriteLine(ex.Message);
             }
-            finally {
-                Console.WriteLine("Executing finally block.");
-            }
-
+            
+            progressBar1.Value = 100;
             MessageBox.Show("Тестирование завершено");
         }
         public string ConvertTo2(string num, int round = 5) {

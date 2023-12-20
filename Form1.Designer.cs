@@ -33,6 +33,8 @@
             buttonPath = new Button();
             folderLabel = new Label();
             label2 = new Label();
+            isSilent = new CheckBox();
+            progressBar1 = new ProgressBar();
             SuspendLayout();
             // 
             // TestBtn
@@ -40,7 +42,7 @@
             TestBtn.BackColor = Color.AliceBlue;
             TestBtn.FlatStyle = FlatStyle.Popup;
             TestBtn.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            TestBtn.Location = new Point(56, 302);
+            TestBtn.Location = new Point(62, 266);
             TestBtn.Margin = new Padding(3, 4, 3, 4);
             TestBtn.Name = "TestBtn";
             TestBtn.Size = new Size(527, 58);
@@ -91,12 +93,31 @@
             label2.TabIndex = 9;
             label2.Text = "Введите число для перевода в 2сс";
             // 
+            // isSilent
+            // 
+            isSilent.AutoSize = true;
+            isSilent.Location = new Point(62, 149);
+            isSilent.Name = "isSilent";
+            isSilent.Size = new Size(125, 24);
+            isSilent.TabIndex = 10;
+            isSilent.Text = "Тихий режим";
+            isSilent.UseVisualStyleBackColor = true;
+            // 
+            // progressBar1
+            // 
+            progressBar1.Location = new Point(12, 335);
+            progressBar1.Name = "progressBar1";
+            progressBar1.Size = new Size(630, 29);
+            progressBar1.TabIndex = 11;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(654, 376);
+            Controls.Add(progressBar1);
+            Controls.Add(isSilent);
             Controls.Add(label2);
             Controls.Add(folderLabel);
             Controls.Add(buttonPath);
@@ -119,5 +140,7 @@
         private Button buttonPath;
         private Label folderLabel;
         private Label label2;
+        private CheckBox isSilent;
+        private ProgressBar progressBar1;
     }
 }
